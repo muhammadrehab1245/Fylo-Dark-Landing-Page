@@ -1,0 +1,253 @@
+.para-1 {
+    font-size: 19px;
+    padding: 0;
+}
+
+.illus-1 img {
+    width: 100%;
+}
+
+.navhead{
+    margin-top: 20px;
+}
+
+.imgdiv img {
+    width: 80%;
+}
+
+.divimg2 img {
+    width: 65%;
+}
+
+.started-h h1 {
+    font-size: 1.4rem;
+}
+
+.wholesec {
+    height: auto;
+}
+
+.illus-p {
+    margin-top: 8px;
+}
+
+.navhead img {
+    width: 36px;
+}
+
+
+.page-d {
+    height: auto;
+}
+
+.guidelines {
+    flex-direction: column;
+}
+
+.g-h,
+.g-p {
+    font-size: 11px;
+    margin-top: 10px;
+}
+
+.guidelines {
+    max-width: 39%;
+}
+
+.fylo-d {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: auto;
+}
+
+.fylo-details {
+    margin-top: 30px;
+}
+
+.fylo-s {
+    height: auto;
+}
+
+.quotes {
+    flex-direction: column;
+}
+
+#qlogo {
+    margin-left: 0px;
+    width: 37%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#qlogo img {
+    width: 8%;
+}
+
+.person-sec {
+    height: 137vh;
+}
+
+.person-q {
+    height: auto;
+    max-width: 143px;
+}
+
+.person-q .para-q p {
+    font-size: 10px;
+}
+
+.person-d .name,
+.person-d .position {
+    font-size: 10px;
+}
+
+.profile-d {
+    max-width: initial;
+}
+
+.s-box {
+    height: auto;
+}
+
+.form-s {
+    flex-direction: column;
+}
+
+started {
+    max-width: 400px;
+}
+
+.btn-s button {
+    width: 200px;
+}
+
+.btn-s {
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+#ftr {
+    flex-direction: column;
+    height: auto;
+    background: linear-gradient(95deg, rgb(12, 23, 114) 60%, black 60%);
+}
+
+.ftr-info {
+    margin-top: 220px;
+    max-width: 85%;
+}
+
+.ftrbox-2 p {
+    margin-left: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    justify-content: center;
+    display: flex;
+    max-width: 69%;
+    font-size: 12px;
+}
+
+.phone-ftr h1,
+.email-ftr h1 {
+    font-size: 10px;
+}
+
+.phone-ftr img,
+.email-ftr img {
+    height: 11px;
+}
+
+.contact-ftr {
+    padding: 35px;
+}
+
+.ftr-links,
+.ftrlinks-2,
+.social-i {
+    margin-left: 33px;
+
+    margin-top: 20px;
+}
+
+.ftr-links li a,
+.ftrlinks-2 li a {
+
+    font-size: 12px;
+}
+
+.ftr-links li,
+.ftrlinks-2 li {
+    padding-top: 11px;
+}
+
+.social-i {
+    display: flex;
+
+    width: auto;
+}
+
+.btn {
+    width: auto;
+}
+
+#ul-list a {
+    margin: 5px;
+    font-size: 10px;
+}
+
+.guides .imgdiv {
+
+    padding: 10px;
+}
+
+.guides {
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    width: 78%;
+
+}
+
+.input-s input[type=email] {
+    width: 132%;}
+
+    .input-s {
+         margin-left:0px; 
+         width: 66%;
+    }
+
+    .divimg2 img{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    .fylo-d-p {
+        max-width: auto;
+        max-width: fit-content;
+    }
+
+    .fylo-d-p p {
+        font-size: 14px;
+    }
+
+    .fylo-d-h h2 {
+        font-size: 19px;
+        margin-left: 17px;}
+
+        .fylo-d-h {
+            max-width: 82%;
+}
+
+.para-d {
+    padding-top: 10px;
+    display: flex;
+    font-size: 14px;}
+
+    .ftrbox-1 img{
+        width: 52%;
+    }
